@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:ec4899&height=220&section=header&text=Devarinti%20Sai%20Rupesh&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20NIT%20Patna%20%2725&descAlignY=58&descSize=18&descColor=a5f3fc"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:ec4899&height=220&section=header&text=Devarinti%20Sai%20Rupesh&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20NIT%20Patna%20%2026&descAlignY=58&descSize=18&descColor=a5f3fc"/>
 
 </div>
 
@@ -34,7 +34,7 @@ class SaiRupesh:
 
     name       = "Devarinti Sai Rupesh"
     university = "NIT Patna 🎓"
-    degree     = "B.Tech CSE · 2025"
+    degree     = "B.Tech CSE · 2026"
     location   = "Hyderabad, India 📍"
     status     = "🟢 Open to Work"
 
