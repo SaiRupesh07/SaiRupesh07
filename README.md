@@ -14,8 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-06b6d4?style=for-the-badge&labelColor=0a0a0a)](https://my-portfolio-orcin-omega.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-rupesh-devarinti/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sairupeshdevarinti/)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Profile-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/sairupesh07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sairupeshdevarinti/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devarintisairupesh@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SaiRupesh07&color=06b6d4&style=for-the-badge&label=PROFILE+VIEWS)
