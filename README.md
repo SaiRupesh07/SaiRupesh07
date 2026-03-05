@@ -123,22 +123,6 @@ ML platform for **real-time fake news detection** using BERT embeddings, deploye
 `Python` `HuggingFace` `BERT` `Scikit-learn` `Gradio`
 
 </td>
-<td width="50%">
-
-### 🧠 MindMate — AI Mental Health Journal
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/SaiRupesh07/Mindmate-ai-journal)
-
-Full-stack **AI journaling platform** that helps users track emotional well-being through daily entries, mood analytics, and an AI support bot.
-
-**What makes it special:**
-- 📅 Calendar-based mood tracking
-- 🤖 AI-powered journaling assistant
-- 📊 Emotional analytics dashboard
-- 💬 Mental health support chatbot
-
-`JavaScript` `React` `Node.js` `AI APIs` `MongoDB`
-
-</td>
 </tr>
 </table>
 
