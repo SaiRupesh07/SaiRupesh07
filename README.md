@@ -115,7 +115,7 @@ class SaiRupesh:
 | 🤖 **Campus AI Agent** | LLM-powered assistant for campus queries, bookings & events | `FastAPI` `React` `MongoDB` `Groq` | [🌐 Live](https://campus-ai-agent-1.vercel.app/) · [🐙 Code](https://github.com/SaiRupesh07) |
 | 🛡️ **Phishing Detector** | Multimodal AI detecting phishing sites across 34k+ URLs | `PyTorch` `RoBERTa` `CLIP` `EasyOCR` | [🐙 Code](https://github.com/SaiRupesh07/Multimodal-Phishing-Detection-using-Gen-AI) |
 | 📰 **RumorNet** | Real-time fake news detection using BERT embeddings | `HuggingFace` `BERT` `Gradio` | [🌐 Live](https://huggingface.co/spaces/sairupesh07/rumornet-fake-detection) · [🐙 Code](https://github.com/SaiRupesh07/Rumornet-fake-detection) |
-| 🧠 **MindMate** | AI mental health journal with mood analytics & support bot | `Node.js` `MongoDB` `AI APIs` | [🐙 Code](https://github.com/SaiRupesh07/Mindmate-ai-journal) |
+
 
 </div>
 
