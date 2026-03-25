@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:ec4899&height=220&section=header&text=Devarinti%20Sai%20Rupesh&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20NIT%20Patna%20%2026&descAlignY=58&descSize=18&descColor=a5f3fc"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:ec4899&height=220&section=header&text=Devarinti%20Sai%20Rupesh&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20NIT%20Patna%20%2726&descAlignY=58&descSize=18&descColor=a5f3fc"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Final-year+CS+%40+NIT+Patna+%F0%9F%8E%93;Backend+Engineer+%7C+AI+Builder+%F0%9F%A4%96;Open+to+Work+%E2%86%92+SDE+%7C+Backend+%7C+AI+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Final-year+CS+%40+NIT+Patna+%F0%9F%8E%93;Backend+Engineer+%7C+AI+Builder+%F0%9F%A4%96;Open+to+Work+%E2%86%92+SDE+%7C+Backend+%7C+AI+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -45,8 +45,8 @@ class SaiRupesh:
 
       Started with algorithms, ended up
       shipping multimodal AI, fake news
-      detectors, and campus intelligence
-      systems.
+      detectors, mock interview platforms,
+      and campus intelligence systems.
 
       Currently hunting for my first SDE
       role where I can contribute, grow
@@ -109,12 +109,100 @@ class SaiRupesh:
 
 <div align="center">
 
-| 🚀 Project | 💡 What it Does | 🛠️ Stack | 🔗 Links |
-|-----------|----------------|---------|---------|
-| 🤖 **Campus AI Agent** | LLM-powered assistant for campus queries, bookings & events | `FastAPI` `React` `MongoDB` `Groq` | [🌐 Live](https://campus-ai-agent-1.vercel.app/) · [🐙 Code](https://github.com/SaiRupesh07) |
-| 🛡️ **Phishing Detector** | Multimodal AI detecting phishing sites across 34k+ URLs | `PyTorch` `RoBERTa` `CLIP` `EasyOCR` | [🐙 Code](https://github.com/SaiRupesh07/Multimodal-Phishing-Detection-using-Gen-AI) |
-| 📰 **RumorNet** | Real-time fake news detection using BERT embeddings | `HuggingFace` `BERT` `Gradio` | [🌐 Live](https://huggingface.co/spaces/sairupesh07/rumornet-fake-detection) · [🐙 Code](https://github.com/SaiRupesh07/Rumornet-fake-detection) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🤖 InterviewForge.AI
+> **AI-Powered Mock Interview Platform**
+
+Resume-based question generation, real-time answer evaluation via LLM APIs, performance analytics, credit-based payments, and interview history — all in one platform.
+
+**Key Features:**
+- 📄 Resume parsing → role-specific Q&A generation
+- ⚡ Real-time LLM answer evaluation & scoring
+- 💳 Razorpay credit system + Google OAuth
+- 📊 Performance reports & interview history
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter_LLM-412991?style=flat-square&logo=openai&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-06b6d4?style=for-the-badge)](https://ai-interview-agent-1-client.onrender.com)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/SaiRupesh07/AI_Interview_Agent)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏫 Campus AI Agent
+> **LLM-Powered Campus Intelligence System**
+
+Conversational assistant for campus queries, room bookings, event info, and academic help — built for NIT Patna students.
+
+**Key Features:**
+- 🧠 Natural language campus query handling
+- 📅 Room & resource booking via chat
+- 🎯 Context-aware multi-turn conversations
+- ⚡ Groq-powered ultra-fast LLM responses
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=flat-square&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-06b6d4?style=for-the-badge)](https://campus-ai-agent-1.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/SaiRupesh07)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Multimodal Phishing Detector
+> **AI Security System — 34K+ URLs Analyzed**
+
+Detects phishing websites using a multimodal pipeline combining visual, textual, and structural signals — ResearchPaper-level accuracy.
+
+**Key Features:**
+- 🖼️ Visual analysis with CLIP embeddings
+- 📝 Text classification via RoBERTa
+- 🔍 OCR-based logo & content detection
+- 📊 34,000+ URL dataset trained
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![RoBERTa](https://img.shields.io/badge/RoBERTa-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white)
+![EasyOCR](https://img.shields.io/badge/EasyOCR-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/SaiRupesh07/Multimodal-Phishing-Detection-using-Gen-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### 📰 RumorNet
+> **Real-Time Fake News Detection**
+
+BERT-powered fake news classifier with a live Gradio interface. Analyzes headlines and article content to flag misinformation instantly.
+
+**Key Features:**
+- 🤗 Fine-tuned BERT embeddings
+- ⚡ Real-time classification via Gradio UI
+- 📈 High accuracy on news benchmarks
+- 🌐 Deployed on HuggingFace Spaces
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![BERT](https://img.shields.io/badge/BERT-412991?style=flat-square&logo=google&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-06b6d4?style=for-the-badge)](https://huggingface.co/spaces/sairupesh07/rumornet-fake-detection)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/SaiRupesh07/Rumornet-fake-detection)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -134,7 +222,7 @@ class SaiRupesh:
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                  🏅 HALL OF FAME                             ║
+║                     🏅  HALL OF FAME                         ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  🥈  Flipkart Grid 7.0          →  Semifinalist              ║
 ║  🥈  Amazon HackOn 2025         →  Semifinalist              ║
@@ -178,7 +266,7 @@ class SaiRupesh:
 - 🔭 Building **AI-powered backend systems** and **full-stack apps** that go to production
 - 🌱 Learning **LLM fine-tuning**, **RAG pipelines**, and **system design at scale**
 - 👀 Looking for **SDE / Backend / AI Engineer** roles — open to relocation
-- 💬 Ask me anything about **FastAPI · PyTorch · DSA · System Design**
+- 💬 Ask me anything about **FastAPI · Node.js · PyTorch · DSA · System Design**
 - ⚡ Fun fact: **I debug faster with coffee ☕**
 
 ---
