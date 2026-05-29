@@ -27,7 +27,7 @@
 <br><br>
 
 <a href="https://leetcode.com/u/sairupeshdevarinti/">
-  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:devarintisairupesh@gmail.com">
@@ -101,7 +101,7 @@ Databases:
 ### 🏆 Quick Highlights
 
 - 🤖 Built 6+ AI & Full-Stack Applications
-- 💻 Solved 500+ DSA Problems
+- 💻 Solved 600+ DSA Problems
 - 🥈 Semifinalist — Flipkart Grid 7.0
 - 🥈 Semifinalist — Amazon HackOn 2025
 - ⭐ Top 7 Nationally — Bajaj Finserv Datathon
@@ -379,7 +379,7 @@ Enterprise ESG analytics dashboard supporting sustainability data ingestion, ano
 ║  🥈  Amazon HackOn 2025         →  Semifinalist              ║
 ║  ⭐  Bajaj Finserv Datathon     →  Top 7 Nationally          ║
 ║  💼  Deloitte Technology        →  Virtual Experience        ║
-║  💻  DSA Grind                  →  500+ Problems Solved      ║
+║  💻  DSA Grind                  →  600+ Problems Solved      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
