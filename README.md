@@ -12,55 +12,118 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-06b6d4?style=for-the-badge&labelColor=0a0a0a)](https://my-portfolio-orcin-omega.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-rupesh-devarinti/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sairupeshdevarinti/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devarintisairupesh@gmail.com)
+<a href="https://my-portfolio-orcin-omega.vercel.app">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Website-2563eb?style=for-the-badge&labelColor=0f172a"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SaiRupesh07&color=06b6d4&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://www.linkedin.com/in/sai-rupesh-devarinti/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sai%20Rupesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SaiRupesh07">
+  <img src="https://img.shields.io/badge/GitHub-SaiRupesh07-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/sairupeshdevarinti/">
+  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:devarintisairupesh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://huggingface.co/sairupesh07">
+  <img src="https://img.shields.io/badge/HuggingFace-AI%20Projects-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SaiRupesh07&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS"/>
 
 </div>
 
----
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🚀 Open to Software Development Engineer • Backend Engineer • AI Engineer Roles
+
+</div>
+
+
+
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```python
-class SaiRupesh:
+### 🚀 Backend Engineer • AI Systems Builder
 
-    name       = "Devarinti Sai Rupesh"
-    university = "NIT Patna 🎓"
-    degree     = "B.Tech CSE · 2026"
-    location   = "Hyderabad, India 📍"
-    status     = "🟢 Open to Work"
+I'm a **Computer Science undergraduate at NIT Patna (2026)** focused on building scalable backend systems, AI-powered applications, and production-ready software.
 
-    about = """
-      Final-year CS student who engineers
-      systems at scale and builds AI that
-      solves real problems — not just demos.
+My work combines **Backend Engineering, Artificial Intelligence, Full-Stack Development, and Cloud Deployment** to create solutions that solve real-world problems.
 
-      Started with algorithms, ended up
-      shipping multimodal AI, fake news
-      detectors, mock interview platforms,
-      and campus intelligence systems.
+Over the past few years, I have engineered multiple products including:
 
-      Currently hunting for my first SDE
-      role where I can contribute, grow
-      fast, and make a real impact.
-    """
+- 🤖 AI Interview Platform
+- 🏫 Campus AI Assistant
+- 🛡️ Multimodal Phishing Detection System
+- 📰 Fake News Detection Platform
+- 📊 ESG Intelligence Platform
+- 🧠 AI Mental Wellness Assistant
 
-    currently_building = "Things that ship 🚀"
-    fun_fact = "I debug faster with coffee ☕"
+### ⚡ Engineering Focus
+
+```yaml
+Backend Engineering:
+  - FastAPI
+  - Node.js
+  - Express.js
+  - REST APIs
+
+Artificial Intelligence:
+  - LLM Applications
+  - RAG Systems
+  - NLP
+  - Computer Vision
+
+Cloud & DevOps:
+  - Docker
+  - AWS
+  - CI/CD
+
+Databases:
+  - MongoDB
+  - PostgreSQL
 ```
 
+### 🏆 Quick Highlights
+
+- 🤖 Built 6+ AI & Full-Stack Applications
+- 💻 Solved 500+ DSA Problems
+- 🥈 Semifinalist — Flipkart Grid 7.0
+- 🥈 Semifinalist — Amazon HackOn 2025
+- ⭐ Top 7 Nationally — Bajaj Finserv Datathon
+- 🎓 B.Tech CSE @ NIT Patna (2026)
+
+### 🎯 Currently Exploring
+
+- Advanced Backend Engineering
+- AI Agents & LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- System Design
+- Distributed Systems
+
+### 🤝 Open To
+
+🚀 Software Development Engineer (SDE)
+
+🚀 Backend Engineer
+
+🚀 AI Engineer
+
 <br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
