@@ -105,112 +105,200 @@ class SaiRupesh:
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
-<div align="center">
+## 💼 Featured Engineering Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 InterviewForge.AI
-> **AI-Powered Mock Interview Platform**
+## 🤖 InterviewForge AI
 
-Resume-based question generation, real-time answer evaluation via LLM APIs, performance analytics, credit-based payments, and interview history — all in one platform.
+### Production AI Interview Platform
 
-**Key Features:**
-- 📄 Resume parsing → role-specific Q&A generation
-- ⚡ Real-time LLM answer evaluation & scoring
-- 💳 Razorpay credit system + Google OAuth
-- 📊 Performance reports & interview history
+Designed and developed a full-stack AI interview ecosystem that generates personalized interview questions from resumes, evaluates responses using LLMs, and delivers actionable performance insights.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter_LLM-412991?style=flat-square&logo=openai&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+#### Key Impact
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-06b6d4?style=for-the-badge)](https://ai-interview-agent-1-client.onrender.com)
+✅ Resume Parsing Pipeline
+
+✅ AI-Powered Answer Evaluation
+
+✅ Google OAuth Authentication
+
+✅ Razorpay Payment Integration
+
+✅ Interview Analytics Dashboard
+
+#### Tech Stack
+
+`React` • `Node.js` • `MongoDB` • `Firebase` • `OpenRouter`
+
+#### Highlights
+
+* Automated interview generation using AI
+* Real-time candidate scoring
+* Secure authentication and payments
+* Production-ready deployment
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-2563eb?style=for-the-badge)](https://ai-interview-agent-1-client.onrender.com)
+
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/SaiRupesh07/AI_Interview_Agent)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🏫 Campus AI Agent
-> **LLM-Powered Campus Intelligence System**
+## 🏫 Campus AI Agent
 
-Conversational assistant for campus queries, room bookings, event info, and academic help — built for NIT Patna students.
+### Intelligent Campus Assistant
 
-**Key Features:**
-- 🧠 Natural language campus query handling
-- 📅 Room & resource booking via chat
-- 🎯 Context-aware multi-turn conversations
-- ⚡ Groq-powered ultra-fast LLM responses
+Built an LLM-powered conversational assistant that provides campus information, resource booking, academic support, and event recommendations through natural language interactions.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=flat-square&logoColor=white)
+#### Key Impact
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-06b6d4?style=for-the-badge)](https://campus-ai-agent-1.vercel.app/)
+✅ Multi-turn Conversations
+
+✅ Context-Aware Responses
+
+✅ Campus Knowledge Retrieval
+
+✅ Resource Booking Integration
+
+✅ Low-Latency Groq Inference
+
+#### Tech Stack
+
+`FastAPI` • `React` • `MongoDB` • `Groq`
+
+#### Highlights
+
+* Natural language campus assistance
+* High-speed LLM responses
+* Student-focused productivity platform
+* Full-stack deployment
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-2563eb?style=for-the-badge)](https://campus-ai-agent-1.vercel.app/)
+
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/SaiRupesh07)
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🛡️ Multimodal Phishing Detector
-> **AI Security System — 34K+ URLs Analyzed**
+## 🛡️ Multimodal Phishing Detector
 
-Detects phishing websites using a multimodal pipeline combining visual, textual, and structural signals — ResearchPaper-level accuracy.
+### AI Security Intelligence System
 
-**Key Features:**
-- 🖼️ Visual analysis with CLIP embeddings
-- 📝 Text classification via RoBERTa
-- 🔍 OCR-based logo & content detection
-- 📊 34,000+ URL dataset trained
+Developed a multimodal phishing detection platform that combines visual understanding, OCR, and NLP models to identify malicious websites with high accuracy.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![RoBERTa](https://img.shields.io/badge/RoBERTa-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white)
-![EasyOCR](https://img.shields.io/badge/EasyOCR-3776AB?style=flat-square&logo=python&logoColor=white)
+#### Key Impact
+
+✅ Trained on 34,000+ URLs
+
+✅ CLIP-Based Visual Analysis
+
+✅ RoBERTa Text Classification
+
+✅ OCR Content Extraction
+
+✅ Security Threat Detection
+
+#### Tech Stack
+
+`PyTorch` • `CLIP` • `RoBERTa` • `EasyOCR`
+
+#### Highlights
+
+* Multimodal AI architecture
+* Security-focused application
+* Research-grade implementation
+* Large-scale dataset training
 
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/SaiRupesh07/Multimodal-Phishing-Detection-using-Gen-AI)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📰 RumorNet
-> **Real-Time Fake News Detection**
+## 📰 RumorNet
 
-BERT-powered fake news classifier with a live Gradio interface. Analyzes headlines and article content to flag misinformation instantly.
+### Real-Time Fake News Detection Platform
 
-**Key Features:**
-- 🤗 Fine-tuned BERT embeddings
-- ⚡ Real-time classification via Gradio UI
-- 📈 High accuracy on news benchmarks
-- 🌐 Deployed on HuggingFace Spaces
+Engineered a transformer-based misinformation detection platform capable of classifying news articles and headlines using fine-tuned NLP models.
 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![BERT](https://img.shields.io/badge/BERT-412991?style=flat-square&logo=google&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+#### Key Impact
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-06b6d4?style=for-the-badge)](https://huggingface.co/spaces/sairupesh07/rumornet-fake-detection)
+✅ BERT-Based Classification
+
+✅ Real-Time Predictions
+
+✅ Gradio Web Interface
+
+✅ HuggingFace Deployment
+
+✅ NLP Pipeline Design
+
+#### Tech Stack
+
+`BERT` • `PyTorch` • `Gradio` • `HuggingFace`
+
+#### Highlights
+
+* End-to-end NLP workflow
+* Production deployment
+* Real-time inference
+* User-friendly interface
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-2563eb?style=for-the-badge)](https://huggingface.co/spaces/sairupesh07/rumornet-fake-detection)
+
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/SaiRupesh07/Rumornet-fake-detection)
 
 </td>
+
 </tr>
 </table>
 
-</div>
+---
+
+## 🚀 Additional Projects
+
+### 🧠 MindMate AI Journal
+
+AI-powered mental wellness journal with mood analytics, chatbot support, Google Authentication, and personalized insights.
+
+**Stack:** Next.js • Node.js • MongoDB • Groq API
+
+---
+
+### 📊 ESG Intelligence Platform
+
+Enterprise ESG analytics dashboard supporting sustainability data ingestion, anomaly detection, compliance review workflows, and executive reporting.
+
+**Stack:** React • Django REST Framework • PostgreSQL
+
+---
+
+### 🤝 Open Source & Continuous Learning
+
+* 500+ DSA Problems Solved
+* Backend Architecture
+* AI Agents & LLM Systems
+* RAG Applications
+* System Design
+* Cloud Deployment
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 ## 🏆 Achievements
+
 
 <div align="center">
 
