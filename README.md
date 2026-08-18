@@ -1,41 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:ec4899&height=220&section=header&text=Devarinti%20Sai%20Rupesh&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20NIT%20Patna%20%2726&descAlignY=58&descSize=18&descColor=a5f3fc"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:ec4899&height=220&section=header&text=Devarinti%20Sai%20Rupesh&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Builder&descAlignY=58&descSize=18&descColor=a5f3fc"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Final-year+CS+%40+NIT+Patna+%F0%9F%8E%93;Backend+Engineer+%7C+AI+Builder+%F0%9F%A4%96;Open+to+Work+%E2%86%92+SDE+%7C+Backend+%7C+AI+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&color=06B6D4\&center=true\&vCenter=true\&multiline=true\&repeat=true\&width=700\&height=100\&lines=B.Tech+CSE+Graduate+%40+NIT+Patna+%F0%9F%8E%93;Backend+Engineer+%7C+AI+Engineer+%7C+SDE+%F0%9F%A4%96;Building+AI-powered+systems+that+solve+real+problems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
 <a href="https://my-portfolio-orcin-omega.vercel.app">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Website-2563eb?style=for-the-badge&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Live%20Website-2563eb?style=for-the-badge&labelColor=0f172a"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sai-rupesh-devarinti/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sai%20Rupesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sai%20Rupesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/SaiRupesh07">
-  <img src="https://img.shields.io/badge/GitHub-SaiRupesh07-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-SaiRupesh07-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="https://leetcode.com/u/sairupeshdevarinti/">
-  <img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:devarintisairupesh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://huggingface.co/sairupesh07">
-  <img src="https://img.shields.io/badge/HuggingFace-AI%20Projects-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/HuggingFace-AI%20Projects-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 
 <br><br>
@@ -46,37 +46,46 @@
 
 <div align="center">
 
-### 🚀 Open to Software Development Engineer • Backend Engineer • AI Engineer Roles
+### 🚀 Open to Software Development Engineer • Backend Engineer • AI Engineer Opportunities
 
 </div>
 
-
-
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+# 👋 About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 🚀 Backend Engineer • AI Systems Builder
+### 🚀 Software Engineer • Backend Engineer • AI Builder
 
-I'm a **Computer Science undergraduate at NIT Patna (2026)** focused on building scalable backend systems, AI-powered applications, and production-ready software.
+I'm a **B.Tech Computer Science & Engineering graduate from NIT Patna (2026)** focused on building scalable backend systems, AI-powered applications, and production-ready software.
 
-My work combines **Backend Engineering, Artificial Intelligence, Full-Stack Development, and Cloud Deployment** to create solutions that solve real-world problems.
+I enjoy working at the intersection of:
 
-Over the past few years, I have engineered multiple products including:
+* ⚙️ Backend Engineering
+* 🤖 Artificial Intelligence & LLM Applications
+* 🌐 Full-Stack Development
+* ☁️ Cloud & Deployment
+* 🧠 Machine Learning
+* 🏗️ System Design
 
-- 🤖 AI Interview Platform
-- 🏫 Campus AI Assistant
-- 🛡️ Multimodal Phishing Detection System
-- 📰 Fake News Detection Platform
-- 📊 ESG Intelligence Platform
-- 🧠 AI Mental Wellness Assistant
+I build products that combine **clean engineering, practical AI, and real-world usability**.
+
+### 🔥 What I Build
+
+* 🤖 AI-powered interview platforms
+* 🏫 Intelligent campus assistants
+* 🛡️ AI security & phishing detection systems
+* 📰 NLP-based misinformation detection
+* 🧠 AI-powered applications
+* 📊 Data & analytics platforms
+* 🔌 REST APIs and backend services
 
 ### ⚡ Engineering Focus
 
 ```yaml
-Backend Engineering:
+Backend:
+  - Python
   - FastAPI
   - Node.js
   - Express.js
@@ -84,130 +93,134 @@ Backend Engineering:
 
 Artificial Intelligence:
   - LLM Applications
-  - RAG Systems
+  - Generative AI
+  - RAG
   - NLP
   - Computer Vision
+  - AI Agents
 
-Cloud & DevOps:
-  - Docker
-  - AWS
-  - CI/CD
+Frontend:
+  - React
+  - Next.js
+  - JavaScript
+  - Tailwind CSS
 
 Databases:
   - MongoDB
   - PostgreSQL
+  - SQLite
+
+Cloud & DevOps:
+  - Docker
+  - AWS
+  - Vercel
+  - Render
+  - Git
+  - CI/CD
 ```
 
 ### 🏆 Quick Highlights
 
-- 🤖 Built 6+ AI & Full-Stack Applications
-- 💻 Solved 600+ DSA Problems
-- 🥈 Semifinalist — Flipkart Grid 7.0
-- 🥈 Semifinalist — Amazon HackOn 2025
-- ⭐ Top 7 Nationally — Bajaj Finserv Datathon
-- 🎓 B.Tech CSE @ NIT Patna (2026)
+* 🎓 **B.Tech CSE Graduate — NIT Patna, 2026**
+* 🤖 **Built 6+ AI & Full-Stack Applications**
+* 💻 **Solved 600+ DSA Problems**
+* 🥈 **Flipkart Grid 7.0 — Semifinalist**
+* 🥈 **Amazon HackOn 2025 — Semifinalist**
+* ⭐ **Bajaj Finserv Datathon — Top 7 Nationally**
+* 💼 **Deloitte Technology Job Simulation**
+* 🚀 Experience building and deploying full-stack applications
 
 ### 🎯 Currently Exploring
 
-- Advanced Backend Engineering
-- AI Agents & LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- System Design
-- Distributed Systems
+* Advanced Backend Engineering
+* AI Agents & LLM Systems
+* Retrieval-Augmented Generation
+* System Design
+* Distributed Systems
+* Production AI Architecture
+* Scalable API Design
 
 ### 🤝 Open To
 
-🚀 Software Development Engineer (SDE)
-
-🚀 Backend Engineer
-
-🚀 AI Engineer
+**Software Development Engineer • Backend Engineer • AI Engineer**
 
 <br clear="right"/>
+
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### ⚙️ Backend & Frontend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 ### 🤖 AI / Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8b5cf6?style=for-the-badge&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🗄️ Databases & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+
+### 🗄️ Databases & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
-
-## 💼 Featured Engineering Projects
+# 💼 Featured Engineering Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🤖 InterviewForge AI
+## 🤖 InterviewForge.AI
 
-### Production AI Interview Platform
+### AI-Powered Interview Platform
 
-Designed and developed a full-stack AI interview ecosystem that generates personalized interview questions from resumes, evaluates responses using LLMs, and delivers actionable performance insights.
+A full-stack AI interview platform that generates resume-based technical questions, evaluates candidate answers using LLMs, and provides detailed performance analytics.
 
-#### Key Impact
+**Key Features**
 
-✅ Resume Parsing Pipeline
+* 📄 Resume parsing
+* 🤖 AI question generation
+* 🧠 LLM-powered answer evaluation
+* 🔐 Google OAuth authentication
+* 💳 Razorpay payment integration
+* 📊 Interview analytics
+* ⚡ Production deployment
 
-✅ AI-Powered Answer Evaluation
+**Tech Stack**
 
-✅ Google OAuth Authentication
+`React` • `Node.js` • `MongoDB` • `Firebase` • `LLM APIs`
 
-✅ Razorpay Payment Integration
-
-✅ Interview Analytics Dashboard
-
-#### Tech Stack
-
-`React` • `Node.js` • `MongoDB` • `Firebase` • `OpenRouter`
-
-#### Highlights
-
-* Automated interview generation using AI
-* Real-time candidate scoring
-* Secure authentication and payments
-* Production-ready deployment
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-2563eb?style=for-the-badge)](https://ai-interview-agent-1-client.onrender.com)
-
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/SaiRupesh07/AI_Interview_Agent)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge\&logo=github)](https://github.com/SaiRupesh07/InterviewForge.AI)
 
 </td>
 
@@ -217,34 +230,22 @@ Designed and developed a full-stack AI interview ecosystem that generates person
 
 ### Intelligent Campus Assistant
 
-Built an LLM-powered conversational assistant that provides campus information, resource booking, academic support, and event recommendations through natural language interactions.
+An LLM-powered campus assistant designed to provide information and perform resource-related tasks through natural language interactions.
 
-#### Key Impact
+**Key Features**
 
-✅ Multi-turn Conversations
+* 💬 Natural-language conversations
+* 🧠 Context-aware responses
+* 🏫 Campus information retrieval
+* 📅 Resource booking
+* ⚡ Low-latency LLM inference
+* 🔐 Conflict-aware booking logic
 
-✅ Context-Aware Responses
-
-✅ Campus Knowledge Retrieval
-
-✅ Resource Booking Integration
-
-✅ Low-Latency Groq Inference
-
-#### Tech Stack
+**Tech Stack**
 
 `FastAPI` • `React` • `MongoDB` • `Groq`
 
-#### Highlights
-
-* Natural language campus assistance
-* High-speed LLM responses
-* Student-focused productivity platform
-* Full-stack deployment
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-2563eb?style=for-the-badge)](https://campus-ai-agent-1.vercel.app/)
-
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/SaiRupesh07)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge\&logo=github)](https://github.com/SaiRupesh07/Campus-AI-Agent-1)
 
 </td>
 
@@ -254,36 +255,26 @@ Built an LLM-powered conversational assistant that provides campus information, 
 
 <td width="50%" valign="top">
 
-## 🛡️ Multimodal Phishing Detector
+## 🛡️ Multimodal Phishing Detection
 
 ### AI Security Intelligence System
 
-Developed a multimodal phishing detection platform that combines visual understanding, OCR, and NLP models to identify malicious websites with high accuracy.
+A multimodal phishing detection system combining visual understanding, OCR and NLP to identify malicious websites.
 
-#### Key Impact
+**Key Features**
 
-✅ Trained on 34,000+ URLs
+* 🔍 34,000+ URL dataset
+* 👁️ CLIP-based visual analysis
+* 🧠 RoBERTa classification
+* 🔤 OCR content extraction
+* 🛡️ Security threat detection
+* 🤖 Multimodal AI pipeline
 
-✅ CLIP-Based Visual Analysis
-
-✅ RoBERTa Text Classification
-
-✅ OCR Content Extraction
-
-✅ Security Threat Detection
-
-#### Tech Stack
+**Tech Stack**
 
 `PyTorch` • `CLIP` • `RoBERTa` • `EasyOCR`
 
-#### Highlights
-
-* Multimodal AI architecture
-* Security-focused application
-* Research-grade implementation
-* Large-scale dataset training
-
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/SaiRupesh07/Multimodal-Phishing-Detection-using-Gen-AI)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge\&logo=github)](https://github.com/SaiRupesh07/Multimodal-Phishing-Detection-using-Gen-AI)
 
 </td>
 
@@ -291,36 +282,59 @@ Developed a multimodal phishing detection platform that combines visual understa
 
 ## 📰 RumorNet
 
-### Real-Time Fake News Detection Platform
+### Fake News Detection Platform
 
-Engineered a transformer-based misinformation detection platform capable of classifying news articles and headlines using fine-tuned NLP models.
+A transformer-based misinformation detection platform for classifying news articles and headlines.
 
-#### Key Impact
+**Key Features**
 
-✅ BERT-Based Classification
+* 🧠 BERT-based classification
+* ⚡ Real-time prediction
+* 🌐 Gradio interface
+* 🤗 Hugging Face deployment
+* 🔬 NLP pipeline
 
-✅ Real-Time Predictions
+**Tech Stack**
 
-✅ Gradio Web Interface
+`BERT` • `PyTorch` • `Gradio` • `Hugging Face`
 
-✅ HuggingFace Deployment
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-2563eb?style=for-the-badge)](https://huggingface.co/spaces/sairupesh07/rumornet-fake-detection)
 
-✅ NLP Pipeline Design
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge\&logo=github)](https://github.com/SaiRupesh07/Rumornet-fake-detection)
 
-#### Tech Stack
+</td>
 
-`BERT` • `PyTorch` • `Gradio` • `HuggingFace`
+</tr>
 
-#### Highlights
+<tr>
 
-* End-to-end NLP workflow
-* Production deployment
-* Real-time inference
-* User-friendly interface
+<td width="50%" valign="top">
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-2563eb?style=for-the-badge)](https://huggingface.co/spaces/sairupesh07/rumornet-fake-detection)
+## 🧠 MindMate AI Journal
 
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/SaiRupesh07/Rumornet-fake-detection)
+### AI-Powered Journaling Platform
+
+A full-stack AI journaling application designed around daily entries, mood insights and conversational assistance.
+
+**Tech Stack**
+
+`Next.js` • `Node.js` • `MongoDB` • `Groq`
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/SaiRupesh07/Mindmate-ai-journal)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📊 ESG Intelligence Platform
+
+### Sustainability Analytics Platform
+
+An analytics-oriented platform for sustainability data ingestion, anomaly detection, compliance workflows and executive reporting.
+
+**Tech Stack**
+
+`React` • `Django REST Framework` • `PostgreSQL`
 
 </td>
 
@@ -329,39 +343,109 @@ Engineered a transformer-based misinformation detection platform capable of clas
 
 ---
 
-## 🚀 Additional Projects
+# 🚀 More Projects
 
-### 🧠 MindMate AI Journal
+### 💳 Real-Time Medical Bill Extraction
 
-AI-powered mental wellness journal with mood analytics, chatbot support, Google Authentication, and personalized insights.
+Medical bill extraction system developed for the **Bajaj Health Datathon**.
 
-**Stack:** Next.js • Node.js • MongoDB • Groq API
+**Tech:** `Python` • `OCR` • `API Development`
 
----
-
-### 📊 ESG Intelligence Platform
-
-Enterprise ESG analytics dashboard supporting sustainability data ingestion, anomaly detection, compliance review workflows, and executive reporting.
-
-**Stack:** React • Django REST Framework • PostgreSQL
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/SaiRupesh07/REAL-TIME-LEARNING-Medical-Bill-Extraction)
 
 ---
 
-### 🤝 Open Source & Continuous Learning
+### 💙 EmpathAI
 
-* 500+ DSA Problems Solved
-* Backend Architecture
-* AI Agents & LLM Systems
-* RAG Applications
-* System Design
-* Cloud Deployment
+Full-stack AI chatbot focused on conversational interaction, emotional context and memory capabilities.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Tech:** `Python` • `React` • `Groq`
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/SaiRupesh07/empathai)
 
 ---
 
-## 🏆 Achievements
+### 📄 ATS Resume Score
 
+A resume-analysis application designed to evaluate compatibility between resumes and job descriptions.
+
+**Tech:** `JavaScript` • `Full Stack` • `NLP`
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/SaiRupesh07/Ats-resume-score)
+
+---
+
+### 🎬 QuickShow Full Stack
+
+Full-stack application demonstrating modern web application architecture and development.
+
+**Tech:** `JavaScript` • `React` • `Full Stack`
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/SaiRupesh07/QuickShow-FullStack)
+
+---
+
+### 🧩 MindMate Server
+
+Backend service supporting the MindMate application.
+
+**Tech:** `JavaScript` • `Node.js` • `Backend`
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/SaiRupesh07/mindmate-server)
+
+---
+
+### 🎨 MindMate Client
+
+Frontend client for the MindMate application.
+
+**Tech:** `JavaScript` • `React` • `Frontend`
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/SaiRupesh07/mindmate-client)
+
+---
+
+### 💼 JPMC Advanced Software Engineering — Forage
+
+Repository from the JPMorgan Chase Advanced Software Engineering virtual experience.
+
+**Tech:** `Java`
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/SaiRupesh07/forage-midas)
+
+---
+
+# 📚 Engineering & Problem Solving
+
+<div align="center">
+
+### 💻 600+ DSA Problems Solved
+
+<a href="https://leetcode.com/u/sairupeshdevarinti/">
+
+<img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
+</div>
+
+My problem-solving practice focuses on:
+
+* Arrays & Hashing
+* Two Pointers
+* Sliding Window
+* Binary Search
+* Stack & Queue
+* Linked Lists
+* Trees
+* Graphs
+* Recursion & Backtracking
+* Dynamic Programming
+* Greedy Algorithms
+
+---
+
+# 🏆 Achievements
 
 <div align="center">
 
@@ -369,70 +453,122 @@ Enterprise ESG analytics dashboard supporting sustainability data ingestion, ano
 
 </div>
 
-<br/>
-
-```
+```text
 ╔══════════════════════════════════════════════════════════════╗
-║                     🏅  HALL OF FAME                         ║
+║                        🏅 HALL OF FAME                       ║
 ╠══════════════════════════════════════════════════════════════╣
-║  🥈  Flipkart Grid 7.0          →  Semifinalist              ║
-║  🥈  Amazon HackOn 2025         →  Semifinalist              ║
-║  ⭐  Bajaj Finserv Datathon     →  Top 7 Nationally          ║
-║  💼  Deloitte Technology        →  Virtual Experience        ║
-║  💻  DSA Grind                  →  600+ Problems Solved      ║
+║  🥈 Flipkart Grid 7.0        → Semifinalist                 ║
+║  🥈 Amazon HackOn 2025       → Semifinalist                 ║
+║  ⭐ Bajaj Finserv Datathon    → Top 7 Nationally             ║
+║  💼 Deloitte Technology      → Virtual Experience            ║
+║  💻 DSA Practice             → 600+ Problems Solved          ║
+║  🎓 NIT Patna                → B.Tech CSE, 2026 Graduate    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SaiRupesh07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=06b6d4&icon_color=8b5cf6&text_color=ffffff" width="49%"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiRupesh07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=06b6d4&text_color=ffffff" width="49%"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SaiRupesh07&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=ec4899&currStreakLabel=8b5cf6)
+![GitHub Streak](https://streak-stats.demolab.com?user=SaiRupesh07\&theme=tokyonight\&hide_border=true\&background=0d1117\&ring=06b6d4\&fire=ec4899\&currStreakLabel=8b5cf6)
 
 </div>
 
+<br>
+
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiRupesh07&bg_color=0d1117&color=06b6d4&line=8b5cf6&point=ec4899&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaiRupesh07\&bg_color=0d1117\&color=06b6d4\&line=8b5cf6\&point=ec4899\&area=true\&hide_border=true)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
-## 🎯 What I'm Up To
-
-- 🔭 Building **AI-powered backend systems** and **full-stack apps** that go to production
-- 🌱 Learning **LLM fine-tuning**, **RAG pipelines**, and **system design at scale**
-- 👀 Looking for **SDE / Backend / AI Engineer** roles — open to relocation
-- 💬 Ask me anything about **FastAPI · Node.js · PyTorch · DSA · System Design**
-- ⚡ Fun fact: **I debug faster with coffee ☕**
-
----
-
-## 🔗 Connect With Me
+# 📂 All My GitHub Repositories
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-my--portfolio--orcin--omega.vercel.app-06b6d4?style=for-the-badge&labelColor=0a0a0a)](https://my-portfolio-orcin-omega.vercel.app)
+### 🔗 Explore the complete repository collection
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sai--rupesh--devarinti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-rupesh-devarinti/)
-[![GitHub](https://img.shields.io/badge/GitHub-SaiRupesh07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiRupesh07)
-[![LeetCode](https://img.shields.io/badge/LeetCode-sairupeshdevarinti-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sairupeshdevarinti/)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-sairupesh07-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/sairupesh07)
-[![Gmail](https://img.shields.io/badge/Email-devarintisairupesh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devarintisairupesh@gmail.com)
+<a href="https://github.com/SaiRupesh07?tab=repositories">
+
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+**12 repositories currently appear on my GitHub profile.**
+
+</div>
+
+> This section intentionally links directly to the live repository tab instead of hard-coding repository names that may change over time. New public repositories will automatically be available there.
+
+---
+
+# 🎯 What I'm Up To
+
+* 🔭 Building **AI-powered backend systems and production-ready applications**
+* 🌱 Exploring **LLM applications, RAG, AI agents and system design**
+* 🧠 Improving **backend architecture and distributed systems knowledge**
+* 💻 Continuously practicing **DSA and problem solving**
+* 🚀 Looking for opportunities in **Software Engineering, Backend Engineering and AI Engineering**
+* 💬 Ask me about **FastAPI, Node.js, React, Python, AI/LLMs, DSA and system design**
+* ⚡ Fun fact: **I debug faster with coffee ☕**
+
+---
+
+# 🔗 Let's Connect
+
+<div align="center">
+
+<a href="https://my-portfolio-orcin-omega.vercel.app">
+
+![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-my--portfolio--orcin--omega.vercel.app-06b6d4?style=for-the-badge\&labelColor=0a0a0a)
+
+</a>
+
+<a href="https://www.linkedin.com/in/sai-rupesh-devarinti/">
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-sai--rupesh--devarinti-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)
+
+</a>
+
+<a href="https://github.com/SaiRupesh07">
+
+![GitHub](https://img.shields.io/badge/GitHub-SaiRupesh07-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+</a>
+
+<a href="https://leetcode.com/u/sairupeshdevarinti/">
+
+![LeetCode](https://img.shields.io/badge/LeetCode-sairupeshdevarinti-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)
+
+</a>
+
+<a href="https://huggingface.co/sairupesh07">
+
+![Hugging Face](https://img.shields.io/badge/HuggingFace-sairupesh07-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+
+</a>
+
+<a href="mailto:devarintisairupesh@gmail.com">
+
+![Email](https://img.shields.io/badge/Email-devarintisairupesh%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)
+
+</a>
 
 </div>
 
@@ -442,9 +578,8 @@ Enterprise ESG analytics dashboard supporting sustainability data ingestion, ano
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:06b6d4&height=120&section=footer&animation=twinkling"/>
 
-### *"Started with Hello World. Now shipping AI that solves real problems."* 🚀
+### *"Started with Hello World. Now building AI that solves real problems."* 🚀
 
-**⭐ Star my repos if you find them useful — it means a lot!**
+**⭐ Star my repositories if you find them useful.**
 
 </div>
-
